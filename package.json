@@ -1,0 +1,35 @@
+{
+  "name": "ops-console-ui",
+  "version": "1.0.0",
+  "description": "Premium dark admin dashboard component — React + Tailwind + Framer Motion",
+  "main": "ops-console.tsx",
+  "files": [
+    "ops-console.tsx",
+    "utils.ts",
+    "README.md"
+  ],
+  "keywords": [
+    "react",
+    "tailwind",
+    "framer-motion",
+    "admin",
+    "dashboard",
+    "dark-mode",
+    "ui-component",
+    "saas",
+    "ops-console"
+  ],
+  "author": "CVitae <contacto@cvitae.lat>",
+  "license": "SEE LICENSE IN README.md",
+  "peerDependencies": {
+    "react": ">=18.0.0",
+    "react-dom": ">=18.0.0",
+    "framer-motion": ">=10.0.0",
+    "clsx": ">=2.0.0",
+    "tailwind-merge": ">=2.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/react": "^18.0.0"
+  }
+}
