@@ -2,7 +2,7 @@
 
 Un panel de operaciones de alta calidad para SaaS, herramientas internas y startups. Diseño oscuro editorial con animaciones Framer Motion, signal lines SVG animadas y arquitectura 100% personalizable por props.
 
-Construido con el mismo stack que alimenta [CVitae](https://cvitae.lat) — plataforma de inteligencia de carrera para Paraguay y LATAM.
+Extraído y generalizado del panel de operaciones interno de [CVitae](https://cvitae.lat) — donde se usa exclusivamente en el área de administración privada. Este componente es la versión reutilizable y desacoplada de ese diseño, lista para cualquier producto.
 
 ---
 
